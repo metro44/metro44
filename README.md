@@ -1,12 +1,6 @@
-# Hello, I'm metro44!
+# Hello, I'm Martins Chinwuba!
 
 Welcome to my GitHub profile! I'm a dedicated Frontend Mobile and Web Developer and a Fullstack Software Engineer with a passion for creating engaging digital experiences and robust applications.
-
----
-
-## About Me
-
-As a versatile developer, I specialize in crafting intuitive and high-performance applications across both mobile and web platforms. With a deep understanding of modern design principles and software engineering practices, I embrace challenges and continuously expand my skillset to keep up with the dynamic world of technology.
 
 ---
 
@@ -21,10 +15,10 @@ As a versatile developer, I specialize in crafting intuitive and high-performanc
 
 <p align="center">
   <h2>Get in Touch</h2>
-  <a href="https://www.linkedin.com/in/martins-chinwuba-50ab4935a" target="_blank">
+  <a href="https://www.linkedin.com/in/martins-chinwuba-50ab4935a" target="blank">
     <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" height="50" width="50" />
   </a>
-  <a href="mailto:ebubemartins39@gmail.com" target="_blank">
+  <a href="mailto:ebubemartins39@gmail.com" target="blank">
     <img align="center" src="https://skillicons.dev/icons?i=gmail" alt="gmail" height="50" width="50" />
   </a>
 </p>
