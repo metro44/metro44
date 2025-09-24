@@ -10,16 +10,12 @@ As a versatile developer, I specialize in crafting intuitive and high-performanc
 
 ---
 
-## 🛠️ Skills & Tools
-
-- **Mobile & Web Development:**  
-  Flutter, HTML, CSS, React  
-- **Programming Languages:**  
-  Python, JavaScript, Dart  
-- **DevOps & Automation:**  
-  Docker, n8n  
-- **Additional Frameworks & Tools:**  
-  Astro, and many more modern tools to deliver seamless user experiences
+<p align="center">
+  <h2>Tech Stack</h2>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,azure,git,github,docker,terraform,githubactions,linux,ubuntu,bash,html,css,py,java,mongodb,notion,vscode" />
+  </a>
+</p>
 
 ---
 
