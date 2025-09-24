@@ -19,12 +19,21 @@ As a versatile developer, I specialize in crafting intuitive and high-performanc
 
 ---
 
-## 📫 Get in Touch
-
-- **LinkedIn:** [linkedin.com/in/martins-chinwuba-50ab4935a](https://linkedin.com/in/martins-chinwuba-50ab4935a)
-- **Twitter:** [x.com/mech_44](https://x.com/mech_44)
-- **Email:** [ebubemartins39@gmail.com](mailto:ebubemartins39@gmail.com)
-- **Website:** [autotube-metro44.vercel.app](https://autotube-metro44.vercel.app)
+<p align="center">
+  <h2>Get in Touch</h2>
+  <a href="https://www.linkedin.com/in/martins-chinwuba-50ab4935a" target="_blank">
+    <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" height="50" width="50" />
+  </a>
+  <a href="https://x.com/mech_44" target="_blank">
+    <img align="center" src="https://skillicons.dev/icons?i=twitter" alt="twitter" height="50" width="50" />
+  </a>
+  <a href="mailto:ebubemartins39@gmail.com" target="_blank">
+    <img align="center" src="https://skillicons.dev/icons?i=gmail" alt="gmail" height="50" width="50" />
+  </a>
+  <a href="https://autotube-metro44.vercel.app" target="_blank">
+    <img align="center" src="https://skillicons.dev/icons?i=vercel" alt="website" height="50" width="50" />
+  </a>
+</p>
 
 ---
 
