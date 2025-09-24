@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a dedicated Frontend Mobile and Web Developer 
 <p align="center">
   <h2>Tech Stack</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,azure,git,github,docker,terraform,githubactions,linux,ubuntu,bash,html,css,py,java,mongodb,notion,vscode" />
+    <img src="https://skillicons.dev/icons?i=aws,azure,git,github,docker,terraform,githubactions,linux,ubuntu,bash,html,css,py,java,mongodb,notion,vscode,tailwind,nextjs" />
   </a>
 </p>
 
